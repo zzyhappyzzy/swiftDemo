@@ -8,6 +8,7 @@ import Foundation
 //: * String
 //: * Int
 //: * Double
+//: * Bool
 //: * Int64
 //: * Slice
 //: * Range

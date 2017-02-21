@@ -54,6 +54,10 @@
 		9F32C98C1E5A9C2B006524D1 /* Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Strings.playground; sourceTree = "<group>"; };
 		9F726BD41E5AC3A2007CF034 /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; };
 		9F9D0B6F1E5AE58000B9527E /* ParametersAndResults.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ParametersAndResults.playground; sourceTree = "<group>"; };
+		9F9D0B701E5AF68E00B9527E /* MakingDecisions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MakingDecisions.playground; sourceTree = "<group>"; };
+		9F9D0B711E5BD24700B9527E /* InstanceMethodsProperties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = InstanceMethodsProperties.playground; sourceTree = "<group>"; };
+		9FBA01691E5BEE9600B5EBD3 /* ArrayAndLoops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ArrayAndLoops.playground; sourceTree = "<group>"; };
+		9FBA016A1E5C18AB00B5EBD3 /* DefiningStructures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DefiningStructures.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +147,10 @@
 				9F1A37241E5ACD960058AD96 /* Variables.playground */,
 				9F1A37251E5AD65E0058AD96 /* Types.playground */,
 				9F9D0B6F1E5AE58000B9527E /* ParametersAndResults.playground */,
+				9F9D0B701E5AF68E00B9527E /* MakingDecisions.playground */,
+				9F9D0B711E5BD24700B9527E /* InstanceMethodsProperties.playground */,
+				9FBA01691E5BEE9600B5EBD3 /* ArrayAndLoops.playground */,
+				9FBA016A1E5C18AB00B5EBD3 /* DefiningStructures.playground */,
 			);
 			path = playground;
 			sourceTree = "<group>";
