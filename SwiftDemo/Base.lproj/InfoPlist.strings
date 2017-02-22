@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  SwiftDemo
+
+  Created by zhenzhaoyang on 2017/2/22.
+  Copyright © 2017年 zhenchy. All rights reserved.
+*/
+
+"CFBundleDisplayName"="swift测试";
+"NSPhotoLibraryUsageDescription"="相册";
+"NSCameraUsageDescription"="相机";
+"NSMicrophoneUsageDescription"="麦克风";
+"NSCalendarsUsageDescription"="日历";
