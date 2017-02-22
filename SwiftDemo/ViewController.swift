@@ -16,14 +16,13 @@ class ViewController: UIViewController {
     let elementList: [String] = ["Carbon", "Gold", "Chlorine", "Sodium"]
     var currentElementIndex = 0
     
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         updateElement()
         
     }
-
+ 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
