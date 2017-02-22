@@ -39,6 +39,9 @@ introduction.hasPrefix("It was")
 introduction.isEmpty
 
 //后续：结构体Structures和类Classes的区别
-
+//class支持继承。init和deinit自定义操作。多个指针指向class实例ARC
+//class实现protocol，需要先继承父类，在写protocol
+// class A : B ,protocol {}
+//extension扩展现有的任何数据类型Type。也可以实现Protocol
 
 
