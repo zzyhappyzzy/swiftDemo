@@ -43,8 +43,19 @@
 /* Begin PBXFileReference section */
 		27B435CA6FD1A8BB3476034D /* Pods-SwiftDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftDemo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SwiftDemo/Pods-SwiftDemo.debug.xcconfig"; sourceTree = "<group>"; };
 		96BDB5CB1953A91D363AA3B8 /* libPods-SwiftDemo.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SwiftDemo.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9F1A37241E5ACD960058AD96 /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variables.playground; sourceTree = "<group>"; };
-		9F1A37251E5AD65E0058AD96 /* Types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Types.playground; sourceTree = "<group>"; };
+		9F1ED2981E690F3600EAF0D7 /* ArrayAndLoops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ArrayAndLoops.playground; sourceTree = "<group>"; };
+		9F1ED2991E690F3600EAF0D7 /* Basic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic.playground; sourceTree = "<group>"; };
+		9F1ED29A1E690F3600EAF0D7 /* DefiningStructures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DefiningStructures.playground; sourceTree = "<group>"; };
+		9F1ED29B1E690F3600EAF0D7 /* EnumsAndSwitch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EnumsAndSwitch.playground; sourceTree = "<group>"; };
+		9F1ED29C1E690F3600EAF0D7 /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; };
+		9F1ED29D1E690F3600EAF0D7 /* InstanceMethodsProperties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = InstanceMethodsProperties.playground; sourceTree = "<group>"; };
+		9F1ED29E1E690F3600EAF0D7 /* MakingDecisions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MakingDecisions.playground; sourceTree = "<group>"; };
+		9F1ED29F1E690F3600EAF0D7 /* NamingAndIdentifiers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NamingAndIdentifiers.playground; sourceTree = "<group>"; };
+		9F1ED2A01E690F3600EAF0D7 /* ParametersAndResults.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ParametersAndResults.playground; sourceTree = "<group>"; };
+		9F1ED2A11E690F3600EAF0D7 /* Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Strings.playground; sourceTree = "<group>"; };
+		9F1ED2A21E690F3600EAF0D7 /* Types.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Types.playground; sourceTree = "<group>"; };
+		9F1ED2A31E690F3600EAF0D7 /* Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variables.playground; sourceTree = "<group>"; };
+		9F1ED2A51E690F6000EAF0D7 /* SwiftTutor.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = SwiftTutor.playground; sourceTree = "<group>"; };
 		9F1FE6471E569F0700B50B66 /* SwiftDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F1FE64A1E569F0700B50B66 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9F1FE64C1E569F0700B50B66 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,20 +68,10 @@
 		9F1FE6661E569F0700B50B66 /* SwiftDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F1FE66A1E569F0700B50B66 /* SwiftDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftDemoUITests.swift; sourceTree = "<group>"; };
 		9F1FE66C1E569F0700B50B66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9F32C98A1E5A89F9006524D1 /* Basic.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Basic.playground; sourceTree = "<group>"; };
-		9F32C98B1E5A91A2006524D1 /* NamingAndIdentifiers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = NamingAndIdentifiers.playground; sourceTree = "<group>"; };
-		9F32C98C1E5A9C2B006524D1 /* Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Strings.playground; sourceTree = "<group>"; };
-		9F5846851E5D4286001E673D /* EnumsAndSwitch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = EnumsAndSwitch.playground; sourceTree = "<group>"; };
 		9F5846871E5D719C001E673D /* Sign.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Sign.swift; sourceTree = "<group>"; };
 		9F5846891E5D7201001E673D /* GameState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameState.swift; sourceTree = "<group>"; };
 		9F58468B1E5D7CAA001E673D /* RPSViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RPSViewController.swift; sourceTree = "<group>"; };
 		9F58468D1E5D800F001E673D /* Palette.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Palette.swift; sourceTree = "<group>"; };
-		9F726BD41E5AC3A2007CF034 /* Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Functions.playground; sourceTree = "<group>"; };
-		9F9D0B6F1E5AE58000B9527E /* ParametersAndResults.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ParametersAndResults.playground; sourceTree = "<group>"; };
-		9F9D0B701E5AF68E00B9527E /* MakingDecisions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MakingDecisions.playground; sourceTree = "<group>"; };
-		9F9D0B711E5BD24700B9527E /* InstanceMethodsProperties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = InstanceMethodsProperties.playground; sourceTree = "<group>"; };
-		9FBA01691E5BEE9600B5EBD3 /* ArrayAndLoops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ArrayAndLoops.playground; sourceTree = "<group>"; };
-		9FBA016A1E5C18AB00B5EBD3 /* DefiningStructures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = DefiningStructures.playground; sourceTree = "<group>"; };
 		9FBA01711E5D29A200B5EBD3 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9FBA01741E5D29C700B5EBD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Base; path = Base.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9FBA017A1E5D2CF200B5EBD3 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -118,6 +119,33 @@
 				A5C76F7CF62B38A5CA95D8F3 /* Pods-SwiftDemo.release.xcconfig */,
 			);
 			name = Pods;
+			sourceTree = "<group>";
+		};
+		9F1ED2971E690F3600EAF0D7 /* AppDevelopment */ = {
+			isa = PBXGroup;
+			children = (
+				9F1ED2981E690F3600EAF0D7 /* ArrayAndLoops.playground */,
+				9F1ED2991E690F3600EAF0D7 /* Basic.playground */,
+				9F1ED29A1E690F3600EAF0D7 /* DefiningStructures.playground */,
+				9F1ED29B1E690F3600EAF0D7 /* EnumsAndSwitch.playground */,
+				9F1ED29C1E690F3600EAF0D7 /* Functions.playground */,
+				9F1ED29D1E690F3600EAF0D7 /* InstanceMethodsProperties.playground */,
+				9F1ED29E1E690F3600EAF0D7 /* MakingDecisions.playground */,
+				9F1ED29F1E690F3600EAF0D7 /* NamingAndIdentifiers.playground */,
+				9F1ED2A01E690F3600EAF0D7 /* ParametersAndResults.playground */,
+				9F1ED2A11E690F3600EAF0D7 /* Strings.playground */,
+				9F1ED2A21E690F3600EAF0D7 /* Types.playground */,
+				9F1ED2A31E690F3600EAF0D7 /* Variables.playground */,
+			);
+			path = AppDevelopment;
+			sourceTree = "<group>";
+		};
+		9F1ED2A41E690F3C00EAF0D7 /* Swift */ = {
+			isa = PBXGroup;
+			children = (
+				9F1ED2A51E690F6000EAF0D7 /* SwiftTutor.playground */,
+			);
+			path = Swift;
 			sourceTree = "<group>";
 		};
 		9F1FE63E1E569F0700B50B66 = {
@@ -179,18 +207,8 @@
 		9F32C9891E5A89C5006524D1 /* playground */ = {
 			isa = PBXGroup;
 			children = (
-				9F5846851E5D4286001E673D /* EnumsAndSwitch.playground */,
-				9F32C98A1E5A89F9006524D1 /* Basic.playground */,
-				9F32C98B1E5A91A2006524D1 /* NamingAndIdentifiers.playground */,
-				9F32C98C1E5A9C2B006524D1 /* Strings.playground */,
-				9F726BD41E5AC3A2007CF034 /* Functions.playground */,
-				9F1A37241E5ACD960058AD96 /* Variables.playground */,
-				9F1A37251E5AD65E0058AD96 /* Types.playground */,
-				9F9D0B6F1E5AE58000B9527E /* ParametersAndResults.playground */,
-				9F9D0B701E5AF68E00B9527E /* MakingDecisions.playground */,
-				9F9D0B711E5BD24700B9527E /* InstanceMethodsProperties.playground */,
-				9FBA01691E5BEE9600B5EBD3 /* ArrayAndLoops.playground */,
-				9FBA016A1E5C18AB00B5EBD3 /* DefiningStructures.playground */,
+				9F1ED2971E690F3600EAF0D7 /* AppDevelopment */,
+				9F1ED2A41E690F3C00EAF0D7 /* Swift */,
 			);
 			path = playground;
 			sourceTree = "<group>";
